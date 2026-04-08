@@ -1,5 +1,7 @@
 git checkout - : 지웠던거 원상복구
 git log --oneline : commit 내용을 요약해서 보여주는 명령어
+git fetch : 원격 저장소에 어떤 변화가 있는지 확인만 하고 가져오는 명령어
+git pull : 원격 저장소의 내용을 가져와서 내 로컬 브랜치에 즉시 합치는(Merge) 명령어
 
 1교시
 
@@ -9,3 +11,6 @@ git log --oneline : commit 내용을 요약해서 보여주는 명령어
 
 깃 명령어
 git log --oneline
+
+2교시
+
