@@ -1,0 +1,9 @@
+1교시
+fork 및 pull request
+
+2교시
+amend 옵션 - 최근 한걸 수정할 수 있는 기능
+2가지 onflicts 상황 해결
+
+git commit -m "CloudService.."
+git commit --amend -m "클라우드서비스.." 이렇게 하면 CloudService.. 였던게 클라우드서비스..라고 바뀜.
